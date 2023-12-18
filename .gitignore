@@ -1,0 +1,16 @@
+ # Ignore compiled files
+*.class
+*.jar
+
+# Ignore logs
+/logs/
+
+# Ignore configuration files
+config.properties
+
+# Ignore images
+*.png
+
+data.zip
+dataset
+testData
